@@ -43,7 +43,7 @@ You are required to submit the following for review:
 
 ## Project Description
 
-We had to change all the div tags to semantic html elements if applicable and change the css accordingly and add alt attributes to images. I also changed the title to be a more accurate description of the website. Changed the css order of elements so that it follows the html and goes in order form h1 to h4. 
+We had to change all the div tags to semantic html elements if applicable and change the css accordingly and add alt attributes to images. I also changed the title to be a more accurate description of the website. Changed the css order of elements so that it follows the html and goes in order form h1 to h4. I also changed some classes to id's if they were only used once and combined some of the css tags so that it would be shorter and easier to read.
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
